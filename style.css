@@ -2,3 +2,19 @@ body{
     color:red;
     backgroud:black;
 }
+    border-botton:solid 2 px blue;
+    padding: 20 px;
+    font-size: 32 px;
+    color: green;
+}
+section {
+    backgroud: rgb(184,156,213);
+    padding-botton: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content:center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+{
